@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main()
@@ -8,5 +9,10 @@ int main()
     printf("\nBoa noite, Fernanda");
     printf("\nBoa noite, Marilson);
     printf("\nBoa noite Juliana");
+	  printf("\nBoa noite Luciano ");
+    printf("\nBoa noite Gabrielvf");
+    printf("\nBoa noite Artur");
+    printf("\nBoa noite, Matheus");
+
     return 0;
 }
