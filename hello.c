@@ -8,5 +8,7 @@ int main()
     printf("\nBoa noite, Fernanda");
     printf("\nBoa noite Juliana");
 	  printf("\nBoa noite Luciano ");
+    printf("\nBoa noite Gabrielvf");
+
     return 0;
 }
