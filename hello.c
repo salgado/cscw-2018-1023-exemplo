@@ -9,6 +9,6 @@ int main()
     printf("\nBoa noite Juliana");
 	  printf("\nBoa noite Luciano ");
     printf("\nBoa noite Gabrielvf");
-
+    printf("\nBoa noite Artur");
     return 0;
 }
