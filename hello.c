@@ -16,8 +16,10 @@ int main()
     printf("\nBoa noite, Matheus");
     printf("\nBoa noite, Filipe");
     printf("\nBoa noite, Charles!");
+    printf("\nBoa noite, Rodrigo");
     printf("\nBoa noite, Bruno Diniz!");
     printf("\nBoa noite, Thiago!");
+
 
     return 0;
 }
